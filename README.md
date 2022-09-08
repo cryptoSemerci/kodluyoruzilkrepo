@@ -25,6 +25,9 @@ code .
 ## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
+## Education
+Bu ve daha fazlasını öğrenmek için [Patika.dev](www.patika.dev) web sitesini ziyaret edebilirsiniz!
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
